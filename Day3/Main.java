@@ -8,3 +8,9 @@ public class Main
 		System.out.println("hashcode Obj 1 = "+obj1.hashCode());
 	}
 }
+
+/*
+Output
+hashcode Obj = 2018699554
+hashcode Obj 1 = 2018699554
+*/
